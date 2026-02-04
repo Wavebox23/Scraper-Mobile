@@ -2,6 +2,7 @@
   "name": "mobile-de-scraper",
   "version": "1.0.0",
   "description": "Scraper for extracting vehicle listings from Mobile.de",
+  "type": "module",
   "main": "src/main.js",
   "scripts": {
     "start": "node src/main.js",
