@@ -1,0 +1,23 @@
+{
+  "name": "mobile-de-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for extracting vehicle listings from Mobile.de",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test:simple": "node src/main.js --input ./test-inputs/simple-search.json",
+    "test:bmw": "node src/main.js --input ./test-inputs/bmw-search.json",
+    "test:single": "node src/main.js --input ./test-inputs/single-vehicle.json",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify": "^3.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "crawlee": "^3.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "startUrls": [
+    {
+      "url": "https://suchen.mobile.de/fahrzeuge/search.html?dam=false&isSearchRequest=true&s=Car&vc=Car"
+    }
+  ],
+  "maxItems": 5,
+  "reviewLimit": 3,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}

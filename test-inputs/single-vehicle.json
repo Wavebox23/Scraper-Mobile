@@ -1,0 +1,11 @@
+{
+  "startUrls": [
+    {
+      "url": "https://suchen.mobile.de/fahrzeuge/details.html?id=413683625"
+    }
+  ],
+  "reviewLimit": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}

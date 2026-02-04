@@ -1,0 +1,18 @@
+{
+  "searchCategory": "Car",
+  "models": ["BMW|320", "BMW|330"],
+  "mileageKmMin": 10000,
+  "mileageKmMax": 100000,
+  "powerKwMin": 100,
+  "powerKwMax": 250,
+  "priceMin": 15000,
+  "priceMax": 35000,
+  "registrationDateYearMin": 2015,
+  "registrationDateYearMax": 2023,
+  "sort": "price_asc",
+  "maxItems": 10,
+  "reviewLimit": 5,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
